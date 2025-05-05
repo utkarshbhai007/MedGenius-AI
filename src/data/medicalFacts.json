@@ -1,0 +1,202 @@
+[
+  {
+    "fact": "Unsafe medication practices and medication errors are a leading cause of injury and avoidable harm in health care systems worldwide.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Globally, the cost associated with medication errors is estimated at USD 42 billion annually.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Medication errors harm at least 1.5 million people every year in the United States alone.",
+    "source": "Institute of Medicine"
+  },
+  {
+    "fact": "An estimated 125,000 Americans die each year due to not taking their medications as prescribed.",
+    "source": "CDC"
+  },
+  {
+    "fact": "About 50% of patients do not take their medications as prescribed.",
+    "source": "WHO"
+  },
+  {
+    "fact": "One in every ten patients is harmed while receiving hospital care.",
+    "source": "WHO"
+  },
+  {
+    "fact": "At least 7,000 to 9,000 people die annually in the U.S. as a result of medication errors.",
+    "source": "NCBI"
+  },
+  {
+    "fact": "Adverse drug events account for nearly 700,000 emergency department visits and 100,000 hospitalizations each year.",
+    "source": "CDC"
+  },
+  {
+    "fact": "Medication errors are more likely to occur during transitions of care, such as hospital admissions or discharges.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Older adults are twice as likely to visit emergency departments for adverse drug events than younger adults.",
+    "source": "CDC"
+  },
+  {
+    "fact": "Anticoagulants, antibiotics, and diabetes medications are most commonly involved in emergency visits for adverse drug events.",
+    "source": "CDC"
+  },
+  {
+    "fact": "Children under 5 years old account for nearly half of emergency department visits for medication-related issues.",
+    "source": "CDC"
+  },
+  {
+    "fact": "In low- and middle-income countries, as many as 134 million adverse events occur each year due to unsafe care.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Most medication errors are preventable through improved communication and system design.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Health care-associated infections affect hundreds of millions of patients worldwide every year.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Electronic prescribing systems can reduce medication errors by up to 70%.",
+    "source": "AHRQ"
+  },
+  {
+    "fact": "Medication reconciliation during hospital transitions can prevent up to 70% of medication errors.",
+    "source": "ISMP"
+  },
+  {
+    "fact": "Patients who are more involved in their care experience fewer adverse events.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Up to 80% of serious medical errors involve miscommunication during handoffs.",
+    "source": "Joint Commission"
+  },
+  {
+    "fact": "The use of barcoding in medication administration can reduce errors by over 40%.",
+    "source": "AHRQ"
+  },
+  {
+    "fact": "Inadequate staffing levels are associated with increased rates of medication errors.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Clear labeling and packaging reduce medication administration errors.",
+    "source": "ISMP"
+  },
+  {
+    "fact": "A strong safety culture in hospitals correlates with fewer medication-related incidents.",
+    "source": "AHRQ"
+  },
+  {
+    "fact": "Computerized decision support tools can alert clinicians to potentially harmful drug interactions.",
+    "source": "AHRQ"
+  },
+  {
+    "fact": "Over 30% of adults in the U.S. take 5 or more medications regularly.",
+    "source": "CDC"
+  },
+  {
+    "fact": "Medication non-adherence leads to approximately 10% of hospitalizations in older adults.",
+    "source": "CDC"
+  },
+  {
+    "fact": "Errors involving intravenous medications are among the most dangerous.",
+    "source": "ISMP"
+  },
+  {
+    "fact": "Confusing drug names contribute to 25% of medication error reports.",
+    "source": "FDA"
+  },
+  {
+    "fact": "Wrong-dose errors account for nearly 40% of all medication errors.",
+    "source": "FDA"
+  },
+  {
+    "fact": "Implementing medication error reporting systems can help reduce future incidents.",
+    "source": "WHO"
+  },
+  {
+    "fact": "More than 1 in 4 medication errors occur during the prescribing stage.",
+    "source": "FDA"
+  },
+  {
+    "fact": "Clear communication between providers and patients is essential to prevent medication errors.",
+    "source": "WHO"
+  },
+  {
+    "fact": "The most common types of preventable medication errors involve dosage, route, and timing.",
+    "source": "ISMP"
+  },
+  {
+    "fact": "Healthcare professionals report only a fraction of medication-related incidents.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Adverse drug events are responsible for up to 5% of hospital admissions.",
+    "source": "NCBI"
+  },
+  {
+    "fact": "Integrating pharmacists into care teams reduces adverse drug events.",
+    "source": "CDC"
+  },
+  {
+    "fact": "Telehealth has been shown to improve medication adherence in chronic disease patients.",
+    "source": "NIH"
+  },
+  {
+    "fact": "Patients who understand their medications are more likely to take them correctly.",
+    "source": "AHRQ"
+  },
+  {
+    "fact": "Many medication errors result from abbreviations and unclear handwriting.",
+    "source": "ISMP"
+  },
+  {
+    "fact": "Using tall man lettering can help differentiate look-alike drug names.",
+    "source": "FDA"
+  },
+  {
+    "fact": "More than 40% of adverse drug reactions in elderly patients are preventable.",
+    "source": "NCBI"
+  },
+  {
+    "fact": "Standardizing medication protocols improves patient safety.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Patient education is one of the most cost-effective tools to reduce medication errors.",
+    "source": "AHRQ"
+  },
+  {
+    "fact": "Adverse drug reactions increase the length of hospital stay by an average of 2 days.",
+    "source": "NCBI"
+  },
+  {
+    "fact": "Pharmacogenomics can reduce adverse drug reactions by tailoring medications to genetic profiles.",
+    "source": "NIH"
+  },
+  {
+    "fact": "Medication safety initiatives can lead to significant cost savings in healthcare systems.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Avoiding polypharmacy in elderly patients is a key strategy to prevent drug-related harm.",
+    "source": "CDC"
+  },
+  {
+    "fact": "Mobile apps and reminders improve medication adherence in patients with chronic illnesses.",
+    "source": "NIH"
+  },
+  {
+    "fact": "Many medication errors occur due to lack of patient history at the point of care.",
+    "source": "WHO"
+  },
+  {
+    "fact": "Electronic health records (EHRs) with integrated alerts reduce prescription errors.",
+    "source": "AHRQ"
+  }
+]
