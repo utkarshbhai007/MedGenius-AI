@@ -1,7 +1,7 @@
 // Base URLs for different APIs
 export const API_CONFIG = {
-  OPENAI_API_URL: "https://api.openai.com/v1/chat/completions",
-  OPENAI_API_KEY: import.meta.env.VITE_OPENAI_API_KEY || "",
+  OPENAI_API_URL: "",
+  OPENAI_API_KEY:  || "",
   MODEL: "gpt-3.5-turbo",
   MAX_TOKENS: 2048,
   TEMPERATURE: 0.3
