@@ -1,5 +1,8 @@
 # MedGenius AI Platform
 
+[![CI](https://github.com/utkarshbhai007/MedGenius-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/utkarshbhai007/MedGenius-AI/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 A React-based medical AI platform providing features like patient analysis, disease prediction, and drug recommendations.
 
 ## Features
